@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sunshinelif
-- 👀 I’m interested in cyber security,network,react,javascript,c++.
-- 🌱 I’m currently learning react now. 
+- 👀 I’m interested in cyber security,network,QT5,javascript,c++.
+- 🌱 I’m currently learning QT5 now. 
 - 📫 elifakcayir97@gmail.com
